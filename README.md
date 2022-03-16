@@ -1,12 +1,15 @@
 # YouTube Vanced
-An APK backup of YouTube Vanced.
+An APK backup of [YouTube Vanced](https://vancedapp.com/).
 
-Vanced Manager : [this](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/Vanced.Manager.apk) or [this](https://mega.nz/file/A65WxZSC#FaoJo_X8sV3f-aqWSVC2I7sIWHz5KV_4gRz48lUgBQM)
+> YouTube Vanced was a modified third-party YouTube application for Android with a built-in adblocker. Other features of the app included a sponsor blocker, background play, free picture-in-picture, an AMOLED black theme, swipe control for brightness and volume, and the ability to restore dislike counts on YouTube videos. [Wikipedia](https://en.wikipedia.org/wiki/YouTube_Vanced)
 
-YouTube Vanced : [this](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/YouTube.Vanced.apkm) or [this](https://mega.nz/file/5yBxDKAB#Rg9s5adG8AdNrFRj7Lh2AOhu0CathbX92K5wvN_LQy4)
+YouTube Vanced was discontinued because of [legal reasons](https://twitter.com/YTVanced/status/1503052250268286980) so I am making a backup of the APK's. These APK's should work for 2 more years according to [Vanced Official](https://twitter.com/YTVanced/status/1503055442506915846). Vanced MicroG is necessary for the other apps to work, but you probably won't need the Vanced Manager.
+
+Vanced MicroG: [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/Vanced.MicroG.apk) or [Mega](https://mega.nz/file/8qh3BCLD#kdyGFzlAVMAR8zAut2CEUOdCyqdyO_BdzvboFC8VrjE)
+
+YouTube Vanced : [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/YouTube.Vanced.apkm) or [Mega](https://mega.nz/file/5yBxDKAB#Rg9s5adG8AdNrFRj7Lh2AOhu0CathbX92K5wvN_LQy4)
 (It's an apkm file so you will need https://www.apkmirror.com/apk/apkmirror/apkmirror-installer-official/)
 
-YouTube Music Vanced : [this](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/YouTube.Music.Vanced.apk) or [this](https://mega.nz/file/UqAA2AyY#_cgtheFlLPGZkxzQ5PXkvBxDhP7ZqNyw3woUOKgLDuM)
+YouTube Music Vanced : [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/YouTube.Music.Vanced.apk) or [Mega](https://mega.nz/file/UqAA2AyY#_cgtheFlLPGZkxzQ5PXkvBxDhP7ZqNyw3woUOKgLDuM)
 
-Vanced MicroG: [this](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/Vanced.MicroG.apk) or [this](https://mega.nz/file/8qh3BCLD#kdyGFzlAVMAR8zAut2CEUOdCyqdyO_BdzvboFC8VrjE)
-(Necessary for YouTube Vanced)
+Vanced Manager : [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/Vanced.Manager.apk) or [Mega](https://mega.nz/file/A65WxZSC#FaoJo_X8sV3f-aqWSVC2I7sIWHz5KV_4gRz48lUgBQM)
