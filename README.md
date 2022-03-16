@@ -9,6 +9,7 @@ Vanced MicroG: [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases
 
 YouTube Vanced : [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/YouTube.Vanced.apkm) or [Mega](https://mega.nz/file/5yBxDKAB#Rg9s5adG8AdNrFRj7Lh2AOhu0CathbX92K5wvN_LQy4)
 (It's an apkm file so you will need https://www.apkmirror.com/apk/apkmirror/apkmirror-installer-official/)
+(Also it's the normal dark mode edition, not the black edition.)
 
 YouTube Music Vanced : [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/YouTube.Music.Vanced.apk) or [Mega](https://mega.nz/file/UqAA2AyY#_cgtheFlLPGZkxzQ5PXkvBxDhP7ZqNyw3woUOKgLDuM)
 
