@@ -3,7 +3,7 @@ An APK backup of [YouTube Vanced](https://vancedapp.com/).
 
 > YouTube Vanced was a modified third-party YouTube application for Android with a built-in adblocker. Other features of the app included a sponsor blocker, background play, free picture-in-picture, an AMOLED black theme, swipe control for brightness and volume, and the ability to restore dislike counts on YouTube videos. [Wikipedia](https://en.wikipedia.org/wiki/YouTube_Vanced)
 
-YouTube Vanced was discontinued because of [legal reasons](https://twitter.com/YTVanced/status/1503052250268286980) so I am making a backup of the APK's. These APK's should work for 2 more years according to [Vanced Official](https://twitter.com/YTVanced/status/1503055442506915846). Vanced MicroG is necessary for the other apps to work, but you probably won't need the Vanced Manager.
+YouTube Vanced was discontinued because of [legal reasons](https://twitter.com/YTVanced/status/1503052250268286980) so I am making a backup of the APK's. These APK's should work for 2 more years according to [Vanced Official](https://twitter.com/YTVanced/status/1503055442506915846). Vanced MicroG is necessary for the other apps to work.
 
 Vanced MicroG: [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/Vanced.MicroG.apk) or [Mega](https://mega.nz/file/8qh3BCLD#kdyGFzlAVMAR8zAut2CEUOdCyqdyO_BdzvboFC8VrjE)
 
