@@ -14,3 +14,6 @@ YouTube Vanced : [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releas
 (Also it's the normal dark mode edition, not the black edition.)
 
 YouTube Music Vanced : [GitHub](https://github.com/ApexioDaCoder/youtube-vanced/releases/download/release/YouTube.Music.Vanced.apk) or [Mega](https://mega.nz/file/UqAA2AyY#_cgtheFlLPGZkxzQ5PXkvBxDhP7ZqNyw3woUOKgLDuM)
+
+## About Vanced Manager
+Vanced Manager should still be working, so you may not need to install the other apps. This is because although the main api url is down, there is a [backup api](https://mirror.codebucket.de/vanced/api/) that the manager switches to.
